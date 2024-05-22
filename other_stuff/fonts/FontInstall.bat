@@ -1,0 +1,1 @@
+FontInstall.exe "c:\fonts\DinCyBd.ttf" "c:\fonts\DinCyBk.ttf" "c:\fonts\DinCyLt.ttf" "c:\fonts\DinCyMd.ttf" "c:\fonts\DinCyRg.ttf" "c:\fonts\itfbar.ttf" "c:\fonts\barcode.ttf"

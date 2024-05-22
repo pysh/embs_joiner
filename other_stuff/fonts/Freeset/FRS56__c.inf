@@ -1,0 +1,23 @@
+FontName (FreeSetC-Italic)
+FullName (FreeSetC Italic)
+FamilyName (FreeSetC)
+Version (001.000)
+isFixedPitch false
+CharacterSet (cyrillicit.cs)
+Encoding (cyrillic.enc)
+Pi true
+ItalicAngle -13
+CapHeight 700
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 94
+Serif false
+AppleName (FreeSetC Italic)
+MSMenuName (FreeSetC)
+VPMenuName (FreeSetC)
+WORDMenuName (FreeSetC)
+AppleFONDID 128
+VPStyle (I)
+WindowsCharSet 204
+WindowsFirstChar 32
+WindowsLastChar 255
