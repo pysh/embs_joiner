@@ -144,8 +144,8 @@ Public NotInheritable Class NotificationIcon
                 Select New With {.curFile = chkFile, .curLine = line}
 
             For Each f As Object In files
-                Debug.WriteLine(f.curFile.ToString, f.CurLine.ToString)
-                strOutFile = strOutFile & f.curLine.ToString & vbCrLf
+                Debug.WriteLine(message:=f.curFile.ToString, category:=f.CurLine.ToString)
+                strOutFile = $"{strOutFile}{f.curLine}{vbCrLf}"
             Next f
             If strOutFile <> "" Then
                 Using sw As IO.StreamWriter = New IO.StreamWriter(IO.Path.Combine(cFilePath, "ALL.001"), False, System.Text.Encoding.GetEncoding(1251))

@@ -1,0 +1,9 @@
+D:\Sources\embs_joiner\embs_joiner\bin\Debug\embs_joiner.exe.config
+D:\Sources\embs_joiner\embs_joiner\bin\Debug\embs_joiner.exe
+D:\Sources\embs_joiner\embs_joiner\bin\Debug\embs_joiner.pdb
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.vbproj.AssemblyReference.cache
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.NotificationIcon.resources
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.vbproj.GenerateResource.cache
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.vbproj.CoreCompileInputs.cache
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.exe
+D:\Sources\embs_joiner\embs_joiner\obj\x86\Debug\embs_joiner.pdb
